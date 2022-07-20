@@ -22,11 +22,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (3)">
@@ -65,7 +67,7 @@
       <updated>1658321782369</updated>
       <workItem from="1658321783539" duration="40000" />
       <workItem from="1658321856045" duration="543000" />
-      <workItem from="1658322484113" duration="2437000" />
+      <workItem from="1658322484113" duration="3313000" />
     </task>
     <servers />
   </component>
