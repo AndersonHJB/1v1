@@ -1,0 +1,45 @@
+.dash{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 48px;
+    height: 3px;
+    background: #03a9f4;
+}
+.banner {
+    width: 100%;
+    padding: 5% 10%;
+    background: url(../images/bg.html);
+    box-sizing: border-box;
+    color: hsla(0,0%,100%,.8);
+    text-align: center;
+}
+
+.banner h6 {
+    font-size: 12px;
+    margin-bottom: 15px;
+    color: hsla(0,0%,100%,.8);
+}
+
+.banner h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.banner h5 {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.main {
+    padding: 5% 10%;
+    box-sizing: border-box;
+    color: rgba(0,0,0,.65);
+    font-size: 16px;
+    line-height: 32px;
+    text-indent: 32px;
+}
