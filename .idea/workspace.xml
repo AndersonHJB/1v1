@@ -26,11 +26,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed60ec50-fe78-4991-bc9f-c0e15392077b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java101.html" beforeDir="false" afterPath="$PROJECT_DIR$/java101.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.html" beforeDir="false" afterPath="$PROJECT_DIR$/offer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online.html" beforeDir="false" afterPath="$PROJECT_DIR$/online.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open.html" beforeDir="false" afterPath="$PROJECT_DIR$/open.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public.html" beforeDir="false" afterPath="$PROJECT_DIR$/public.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python101.html" beforeDir="false" afterPath="$PROJECT_DIR$/python101.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +100,8 @@
       <workItem from="1658321856045" duration="543000" />
       <workItem from="1658322484113" duration="18177000" />
       <workItem from="1658454592010" duration="1223000" />
-      <workItem from="1658458826046" duration="5735000" />
+      <workItem from="1658458826046" duration="6142000" />
+      <workItem from="1658649976984" duration="12000" />
     </task>
     <servers />
   </component>
@@ -122,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658468591045">
