@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed60ec50-fe78-4991-bc9f-c0e15392077b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/aiyc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/aiyc.sh" afterDir="false" />
-    </list>
+    <list default="true" id="ed60ec50-fe78-4991-bc9f-c0e15392077b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +104,7 @@
       <workItem from="1658750256836" duration="24000" />
       <workItem from="1658891165805" duration="1085000" />
       <workItem from="1658893126195" duration="680000" />
-      <workItem from="1658895505324" duration="706000" />
+      <workItem from="1658895505324" duration="766000" />
     </task>
     <servers />
   </component>
