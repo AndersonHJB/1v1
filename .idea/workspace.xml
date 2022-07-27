@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed60ec50-fe78-4991-bc9f-c0e15392077b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java101.html" beforeDir="false" afterPath="$PROJECT_DIR$/java101.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2CD0K9u77Id9UZ6WsOlCJLo57zE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,8 +59,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/public" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/public" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -102,6 +105,7 @@
       <workItem from="1658458826046" duration="6142000" />
       <workItem from="1658649976984" duration="812000" />
       <workItem from="1658750256836" duration="24000" />
+      <workItem from="1658891165805" duration="184000" />
     </task>
     <servers />
   </component>
